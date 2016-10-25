@@ -1,0 +1,6 @@
+C:\Users\123\Documents\GitHub\Patterns\HW2\HW2\bin\Debug\HW2.exe.config
+C:\Users\123\Documents\GitHub\Patterns\HW2\HW2\obj\Debug\HW2.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\GitHub\Patterns\HW2\HW2\bin\Debug\HW2.exe
+C:\Users\123\Documents\GitHub\Patterns\HW2\HW2\bin\Debug\HW2.pdb
+C:\Users\123\Documents\GitHub\Patterns\HW2\HW2\obj\Debug\HW2.exe
+C:\Users\123\Documents\GitHub\Patterns\HW2\HW2\obj\Debug\HW2.pdb

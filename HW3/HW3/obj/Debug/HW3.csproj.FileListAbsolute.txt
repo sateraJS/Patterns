@@ -1,0 +1,12 @@
+c:\users\123\documents\visual studio 2013\Projects\HW3\HW3\bin\Debug\HW3.exe.config
+c:\users\123\documents\visual studio 2013\Projects\HW3\HW3\obj\Debug\HW3.csprojResolveAssemblyReference.cache
+c:\users\123\documents\visual studio 2013\Projects\HW3\HW3\bin\Debug\HW3.exe
+c:\users\123\documents\visual studio 2013\Projects\HW3\HW3\bin\Debug\HW3.pdb
+c:\users\123\documents\visual studio 2013\Projects\HW3\HW3\obj\Debug\HW3.exe
+c:\users\123\documents\visual studio 2013\Projects\HW3\HW3\obj\Debug\HW3.pdb
+C:\Users\123\Documents\GitHub\Patterns\HW3\HW3\bin\Debug\HW3.exe.config
+C:\Users\123\Documents\GitHub\Patterns\HW3\HW3\obj\Debug\HW3.exe
+C:\Users\123\Documents\GitHub\Patterns\HW3\HW3\obj\Debug\HW3.pdb
+C:\Users\123\Documents\GitHub\Patterns\HW3\HW3\bin\Debug\HW3.exe
+C:\Users\123\Documents\GitHub\Patterns\HW3\HW3\bin\Debug\HW3.pdb
+C:\Users\123\Documents\GitHub\Patterns\HW3\HW3\obj\Debug\HW3.csprojResolveAssemblyReference.cache

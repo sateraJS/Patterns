@@ -1,0 +1,6 @@
+C:\Users\123\Documents\GitHub\Patterns\HW5\HW5\bin\Debug\HW5.exe.config
+C:\Users\123\Documents\GitHub\Patterns\HW5\HW5\obj\Debug\HW5.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\GitHub\Patterns\HW5\HW5\bin\Debug\HW5.exe
+C:\Users\123\Documents\GitHub\Patterns\HW5\HW5\bin\Debug\HW5.pdb
+C:\Users\123\Documents\GitHub\Patterns\HW5\HW5\obj\Debug\HW5.exe
+C:\Users\123\Documents\GitHub\Patterns\HW5\HW5\obj\Debug\HW5.pdb

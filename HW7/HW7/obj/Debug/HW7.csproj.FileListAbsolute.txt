@@ -1,0 +1,6 @@
+C:\Users\123\Documents\GitHub\Patterns\HW7\HW7\bin\Debug\HW7.exe.config
+C:\Users\123\Documents\GitHub\Patterns\HW7\HW7\bin\Debug\HW7.exe
+C:\Users\123\Documents\GitHub\Patterns\HW7\HW7\bin\Debug\HW7.pdb
+C:\Users\123\Documents\GitHub\Patterns\HW7\HW7\obj\Debug\HW7.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\GitHub\Patterns\HW7\HW7\obj\Debug\HW7.exe
+C:\Users\123\Documents\GitHub\Patterns\HW7\HW7\obj\Debug\HW7.pdb

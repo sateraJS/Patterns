@@ -1,0 +1,7 @@
+D:\test labs\HW8\HW8\bin\Debug\HW8.exe.config
+G:\паттерны\HW8\HW8\bin\Debug\HW8.exe.config
+G:\паттерны\HW8\HW8\bin\Debug\HW8.exe
+G:\паттерны\HW8\HW8\bin\Debug\HW8.pdb
+G:\паттерны\HW8\HW8\obj\Debug\HW8.csprojResolveAssemblyReference.cache
+G:\паттерны\HW8\HW8\obj\Debug\HW8.exe
+G:\паттерны\HW8\HW8\obj\Debug\HW8.pdb
